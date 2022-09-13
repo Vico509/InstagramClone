@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">InstagramClone</string>
+
+    <string name="google_maps_api_key">AIzaSyBGjHaFrhcZfF8o46wBPvs3stXbT_uSmnA</string>
+
+    <string name="back4app_server_url">"https://parseapi.back4app.com"</string>
+
+    <string name="back4app_app_id">D9gPcQzVo0HfJhC4LpM8YGcuOaiJ8q0zwggFW6BK</string>
+    <string name="back4app_client_key">8gksfHXMNBLKDKf0sm5mHAJKX2A4AAWI7AhGcCLf</string>
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+</resources>

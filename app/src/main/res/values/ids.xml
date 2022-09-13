@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etUsername" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="etDescription" type="id" />
+    <item name="btnCaptureImage" type="id" />
+    <item name="ivPostImage" type="id" />
+    <item name="btnSubmit" type="id" />
+    <item name="etNewUsername" type="id" />
+    <item name="etNewPassword" type="id" />
+    <item name="etNewEmail" type="id" />
+    <item name="etNewPhone" type="id" />
+    <item name="btnNewAccount" type="id" />
+    <item name="sign_up_layout" type="id" />
+</resources>
