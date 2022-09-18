@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/home"
+        android:enabled="true"
+        android:id="@+id/action_home"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="always"/>
+
+    <item
+        android:title="@string/compose"
+        android:id="@+id/action_compose"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/profile"
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:enabled="true"
+        app:showAsAction="always" />
+
+</menu>
